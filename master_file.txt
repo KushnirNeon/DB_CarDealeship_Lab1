@@ -1,0 +1,54 @@
+7 5
+ID: 1
+Brand: BMW
+Model: 640i
+Color: White
+Condition: Used
+Mileage: 231412
+VIN: 5TDBK3EH6BS059704
+Dealer ID: 1
+Year: 2009
+Price: 12900
+
+ID: 2
+Brand: Volkswagen
+Model: Passat B8
+Color: Black
+Condition: New
+VIN: 1N9TA12A9JL008149
+Dealer ID: 1
+Year: 2023
+Price: 38400
+
+ID: 3
+Brand: Audi
+Model: A8
+Color: Brown
+Condition: Used
+Mileage: 125543
+VIN: 4T1BE32K64U327474
+Dealer ID: 3
+Year: 2012
+Price: 23200
+
+ID: 4
+Brand: Porsche
+Model: Panamera
+Color: Green
+Condition: Used
+Mileage: 52324
+VIN: 19UUA66228A097719
+Dealer ID: 2
+Year: 2019
+Price: 87000
+
+ID: 5
+Brand: Chevrolete
+Model: Corvette
+Color: Orange
+Condition: New
+VIN: 1HGCM66544A007185
+Dealer ID: 1
+Year: 2024
+Price: 78250
+
